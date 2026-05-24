@@ -27,5 +27,5 @@ Umożliwia generowanie kompletnych artykułów z bogatą strukturą DokuWiki (na
 ## Bezpieczeństwo
 Hasła/Tokeny i klucze API są automatycznie wpisywane w Config Manager DokuWiki jako atrybut `password`, dzięki czemu chronią twoje uprawnienia przed wglądem.
 
-Autor: GitHub Copilot
+Autor: Franker Kimono
 Data: 24 Maja 2026
